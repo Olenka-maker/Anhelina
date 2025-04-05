@@ -1,0 +1,52 @@
+h1{
+    text-align:center ;
+    color: rgb(138, 106, 202);
+}
+
+img {
+    height: 150px;
+    width:150px;
+}
+h6{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    background-color:rgb(133, 108, 184);
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+}
+nav{
+    text-align: center;
+}
+body{
+    background-color: rgb(223, 196, 249);
+}
+
+h2{
+    color: rgb(133, 108, 184);
+    text-align: center;
+}
+
+
+h3{
+    color: rgb(117, 94, 163);
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(190, 168, 235);
+    color: rgb(133, 108, 184);
+}
+
+img{
+    border: 3px solid rgb(117, 94, 163);
+}
+p{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
